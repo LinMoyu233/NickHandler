@@ -1,0 +1,4 @@
+name: NickHandler
+version: '${project.version}'
+main: cn.linmoyu.nickhandler.NickHandler
+depend: [ Nicky ]
